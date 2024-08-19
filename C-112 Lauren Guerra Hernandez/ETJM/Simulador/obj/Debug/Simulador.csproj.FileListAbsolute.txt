@@ -1,0 +1,105 @@
+D:\School\Proyectos\Emulador de torneos para juegos de mesa\06\ETJM\Simulador\bin\Debug\Simulador.dll
+D:\School\Proyectos\Emulador de torneos para juegos de mesa\06\ETJM\Simulador\bin\Debug\Simulador.pdb
+D:\School\Proyectos\Emulador de torneos para juegos de mesa\06\ETJM\Simulador\bin\Debug\IJuego.dll
+D:\School\Proyectos\Emulador de torneos para juegos de mesa\06\ETJM\Simulador\bin\Debug\Tic Tac Toe.dll
+D:\School\Proyectos\Emulador de torneos para juegos de mesa\06\ETJM\Simulador\bin\Debug\IJuego.pdb
+D:\School\Proyectos\Emulador de torneos para juegos de mesa\06\ETJM\Simulador\bin\Debug\Tic Tac Toe.pdb
+D:\School\Proyectos\Emulador de torneos para juegos de mesa\06\ETJM\Simulador\obj\Debug\Simulador.csprojResolveAssemblyReference.cache
+D:\School\Proyectos\Emulador de torneos para juegos de mesa\06\ETJM\Simulador\obj\Debug\Simulador.dll
+D:\School\Proyectos\Emulador de torneos para juegos de mesa\06\ETJM\Simulador\obj\Debug\Simulador.pdb
+D:\School\Proyectos\Emulador de torneos para juegos de mesa\07\ETJM\Simulador\bin\Debug\Simulador.dll
+D:\School\Proyectos\Emulador de torneos para juegos de mesa\07\ETJM\Simulador\bin\Debug\Simulador.pdb
+D:\School\Proyectos\Emulador de torneos para juegos de mesa\07\ETJM\Simulador\bin\Debug\IJuego.dll
+D:\School\Proyectos\Emulador de torneos para juegos de mesa\07\ETJM\Simulador\bin\Debug\Tic Tac Toe.dll
+D:\School\Proyectos\Emulador de torneos para juegos de mesa\07\ETJM\Simulador\bin\Debug\IJuego.pdb
+D:\School\Proyectos\Emulador de torneos para juegos de mesa\07\ETJM\Simulador\bin\Debug\Tic Tac Toe.pdb
+D:\School\Proyectos\Emulador de torneos para juegos de mesa\07\ETJM\Simulador\obj\Debug\Simulador.csprojResolveAssemblyReference.cache
+D:\School\Proyectos\Emulador de torneos para juegos de mesa\07\ETJM\Simulador\obj\Debug\Simulador.dll
+D:\School\Proyectos\Emulador de torneos para juegos de mesa\07\ETJM\Simulador\obj\Debug\Simulador.pdb
+D:\School\Proyectos\Emulador de torneos para juegos de mesa\08\ETJM\Simulador\bin\Debug\Simulador.dll
+D:\School\Proyectos\Emulador de torneos para juegos de mesa\08\ETJM\Simulador\bin\Debug\Simulador.pdb
+D:\School\Proyectos\Emulador de torneos para juegos de mesa\08\ETJM\Simulador\bin\Debug\IJuego.dll
+D:\School\Proyectos\Emulador de torneos para juegos de mesa\08\ETJM\Simulador\bin\Debug\Tic Tac Toe.dll
+D:\School\Proyectos\Emulador de torneos para juegos de mesa\08\ETJM\Simulador\bin\Debug\IJuego.pdb
+D:\School\Proyectos\Emulador de torneos para juegos de mesa\08\ETJM\Simulador\bin\Debug\Tic Tac Toe.pdb
+D:\School\Proyectos\Emulador de torneos para juegos de mesa\08\ETJM\Simulador\obj\Debug\Simulador.csprojResolveAssemblyReference.cache
+D:\School\Proyectos\Emulador de torneos para juegos de mesa\08\ETJM\Simulador\obj\Debug\Simulador.dll
+D:\School\Proyectos\Emulador de torneos para juegos de mesa\08\ETJM\Simulador\obj\Debug\Simulador.pdb
+D:\School\Proyectos\Emulador de torneos para juegos de mesa\09\ETJM\Simulador\bin\Debug\Simulador.dll
+D:\School\Proyectos\Emulador de torneos para juegos de mesa\09\ETJM\Simulador\bin\Debug\Simulador.pdb
+D:\School\Proyectos\Emulador de torneos para juegos de mesa\09\ETJM\Simulador\bin\Debug\IJuego.dll
+D:\School\Proyectos\Emulador de torneos para juegos de mesa\09\ETJM\Simulador\bin\Debug\Tic Tac Toe.dll
+D:\School\Proyectos\Emulador de torneos para juegos de mesa\09\ETJM\Simulador\bin\Debug\IJuego.pdb
+D:\School\Proyectos\Emulador de torneos para juegos de mesa\09\ETJM\Simulador\bin\Debug\Tic Tac Toe.pdb
+D:\School\Proyectos\Emulador de torneos para juegos de mesa\09\ETJM\Simulador\obj\Debug\Simulador.csprojResolveAssemblyReference.cache
+D:\School\Proyectos\Emulador de torneos para juegos de mesa\09\ETJM\Simulador\obj\Debug\Simulador.dll
+D:\School\Proyectos\Emulador de torneos para juegos de mesa\09\ETJM\Simulador\obj\Debug\Simulador.pdb
+D:\School\Proyectos\Emulador de torneos para juegos de mesa\11\ETJM\Simulador\bin\Debug\Simulador.dll
+D:\School\Proyectos\Emulador de torneos para juegos de mesa\11\ETJM\Simulador\bin\Debug\Simulador.pdb
+D:\School\Proyectos\Emulador de torneos para juegos de mesa\11\ETJM\Simulador\bin\Debug\IJuego.dll
+D:\School\Proyectos\Emulador de torneos para juegos de mesa\11\ETJM\Simulador\bin\Debug\Tic Tac Toe.dll
+D:\School\Proyectos\Emulador de torneos para juegos de mesa\11\ETJM\Simulador\bin\Debug\IJuego.pdb
+D:\School\Proyectos\Emulador de torneos para juegos de mesa\11\ETJM\Simulador\bin\Debug\Tic Tac Toe.pdb
+D:\School\Proyectos\Emulador de torneos para juegos de mesa\11\ETJM\Simulador\obj\Debug\Simulador.csprojResolveAssemblyReference.cache
+D:\School\Proyectos\Emulador de torneos para juegos de mesa\11\ETJM\Simulador\obj\Debug\Simulador.dll
+D:\School\Proyectos\Emulador de torneos para juegos de mesa\11\ETJM\Simulador\obj\Debug\Simulador.pdb
+D:\School\Proyectos\Emulador de torneos para juegos de mesa\12\ETJM\Simulador\obj\Debug\Simulador.csprojResolveAssemblyReference.cache
+D:\School\Proyectos\Emulador de torneos para juegos de mesa\12\ETJM\Simulador\obj\Debug\Simulador.dll
+D:\School\Proyectos\Emulador de torneos para juegos de mesa\12\ETJM\Simulador\obj\Debug\Simulador.pdb
+D:\School\Proyectos\Emulador de torneos para juegos de mesa\12\ETJM\Simulador\bin\Debug\Simulador.dll
+D:\School\Proyectos\Emulador de torneos para juegos de mesa\12\ETJM\Simulador\bin\Debug\Simulador.pdb
+D:\School\Proyectos\Emulador de torneos para juegos de mesa\12\ETJM\Simulador\bin\Debug\IJuego.dll
+D:\School\Proyectos\Emulador de torneos para juegos de mesa\12\ETJM\Simulador\bin\Debug\Tic Tac Toe.dll
+D:\School\Proyectos\Emulador de torneos para juegos de mesa\12\ETJM\Simulador\bin\Debug\IJuego.pdb
+D:\School\Proyectos\Emulador de torneos para juegos de mesa\12\ETJM\Simulador\bin\Debug\Tic Tac Toe.pdb
+D:\School\Proyectos\Emulador de torneos para juegos de mesa\14\ETJM\Simulador\obj\Debug\Simulador.csprojResolveAssemblyReference.cache
+D:\School\Proyectos\Emulador de torneos para juegos de mesa\14\ETJM\Simulador\obj\Debug\Simulador.dll
+D:\School\Proyectos\Emulador de torneos para juegos de mesa\14\ETJM\Simulador\obj\Debug\Simulador.pdb
+D:\School\Proyectos\Emulador de torneos para juegos de mesa\16\ETJM\Simulador\obj\Debug\Simulador.csprojResolveAssemblyReference.cache
+D:\School\Proyectos\Emulador de torneos para juegos de mesa\16\ETJM\Simulador\obj\Debug\Simulador.dll
+D:\School\Proyectos\Emulador de torneos para juegos de mesa\16\ETJM\Simulador\obj\Debug\Simulador.pdb
+D:\School\Proyectos\Emulador de torneos para juegos de mesa\17\ETJM\Simulador\bin\Debug\Simulador.dll
+D:\School\Proyectos\Emulador de torneos para juegos de mesa\17\ETJM\Simulador\bin\Debug\Simulador.pdb
+D:\School\Proyectos\Emulador de torneos para juegos de mesa\17\ETJM\Simulador\bin\Debug\IJuego.dll
+D:\School\Proyectos\Emulador de torneos para juegos de mesa\17\ETJM\Simulador\bin\Debug\Tic Tac Toe.dll
+D:\School\Proyectos\Emulador de torneos para juegos de mesa\17\ETJM\Simulador\bin\Debug\IJuego.pdb
+D:\School\Proyectos\Emulador de torneos para juegos de mesa\17\ETJM\Simulador\bin\Debug\Tic Tac Toe.pdb
+D:\School\Proyectos\Emulador de torneos para juegos de mesa\17\ETJM\Simulador\obj\Debug\Simulador.csprojResolveAssemblyReference.cache
+D:\School\Proyectos\Emulador de torneos para juegos de mesa\17\ETJM\Simulador\obj\Debug\Simulador.dll
+D:\School\Proyectos\Emulador de torneos para juegos de mesa\17\ETJM\Simulador\obj\Debug\Simulador.pdb
+D:\School\Proyectos\Emulador de torneos para juegos de mesa\18\ETJM\Simulador\bin\Debug\Simulador.dll
+D:\School\Proyectos\Emulador de torneos para juegos de mesa\18\ETJM\Simulador\bin\Debug\Simulador.pdb
+D:\School\Proyectos\Emulador de torneos para juegos de mesa\18\ETJM\Simulador\bin\Debug\IJuego.dll
+D:\School\Proyectos\Emulador de torneos para juegos de mesa\18\ETJM\Simulador\bin\Debug\Tic Tac Toe.dll
+D:\School\Proyectos\Emulador de torneos para juegos de mesa\18\ETJM\Simulador\bin\Debug\IJuego.pdb
+D:\School\Proyectos\Emulador de torneos para juegos de mesa\18\ETJM\Simulador\bin\Debug\Tic Tac Toe.pdb
+D:\School\Proyectos\Emulador de torneos para juegos de mesa\18\ETJM\Simulador\obj\Debug\Simulador.csprojResolveAssemblyReference.cache
+D:\School\Proyectos\Emulador de torneos para juegos de mesa\18\ETJM\Simulador\obj\Debug\Simulador.dll
+D:\School\Proyectos\Emulador de torneos para juegos de mesa\18\ETJM\Simulador\obj\Debug\Simulador.pdb
+D:\School\Proyectos\Emulador de torneos para juegos de mesa\19\ETJM\Simulador\obj\Debug\Simulador.csprojResolveAssemblyReference.cache
+D:\School\Proyectos\Emulador de torneos para juegos de mesa\19\ETJM\Simulador\obj\Debug\Simulador.dll
+D:\School\Proyectos\Emulador de torneos para juegos de mesa\19\ETJM\Simulador\obj\Debug\Simulador.pdb
+D:\School\Proyectos\Emulador de torneos para juegos de mesa\19\ETJM\Simulador\bin\Debug\Simulador.dll
+D:\School\Proyectos\Emulador de torneos para juegos de mesa\19\ETJM\Simulador\bin\Debug\Simulador.pdb
+D:\School\Proyectos\Emulador de torneos para juegos de mesa\19\ETJM\Simulador\bin\Debug\IJuego.dll
+D:\School\Proyectos\Emulador de torneos para juegos de mesa\19\ETJM\Simulador\bin\Debug\Tic Tac Toe.dll
+D:\School\Proyectos\Emulador de torneos para juegos de mesa\19\ETJM\Simulador\bin\Debug\IJuego.pdb
+D:\School\Proyectos\Emulador de torneos para juegos de mesa\19\ETJM\Simulador\bin\Debug\Tic Tac Toe.pdb
+D:\School\Proyectos\Emulador de torneos para juegos de mesa\20\ETJM\Simulador\bin\Debug\Simulador.dll
+D:\School\Proyectos\Emulador de torneos para juegos de mesa\20\ETJM\Simulador\bin\Debug\Simulador.pdb
+D:\School\Proyectos\Emulador de torneos para juegos de mesa\20\ETJM\Simulador\bin\Debug\IJuego.dll
+D:\School\Proyectos\Emulador de torneos para juegos de mesa\20\ETJM\Simulador\bin\Debug\Tic Tac Toe.dll
+D:\School\Proyectos\Emulador de torneos para juegos de mesa\20\ETJM\Simulador\bin\Debug\IJuego.pdb
+D:\School\Proyectos\Emulador de torneos para juegos de mesa\20\ETJM\Simulador\bin\Debug\Tic Tac Toe.pdb
+D:\School\Proyectos\Emulador de torneos para juegos de mesa\20\ETJM\Simulador\obj\Debug\Simulador.csprojResolveAssemblyReference.cache
+D:\School\Proyectos\Emulador de torneos para juegos de mesa\20\ETJM\Simulador\obj\Debug\Simulador.dll
+D:\School\Proyectos\Emulador de torneos para juegos de mesa\20\ETJM\Simulador\obj\Debug\Simulador.pdb
+D:\School\Proyectos\Emulador de torneos para juegos de mesa\21\ETJM\Simulador\bin\Debug\Simulador.dll
+D:\School\Proyectos\Emulador de torneos para juegos de mesa\21\ETJM\Simulador\bin\Debug\Simulador.pdb
+D:\School\Proyectos\Emulador de torneos para juegos de mesa\21\ETJM\Simulador\bin\Debug\IJuego.dll
+D:\School\Proyectos\Emulador de torneos para juegos de mesa\21\ETJM\Simulador\bin\Debug\Tic Tac Toe.dll
+D:\School\Proyectos\Emulador de torneos para juegos de mesa\21\ETJM\Simulador\bin\Debug\IJuego.pdb
+D:\School\Proyectos\Emulador de torneos para juegos de mesa\21\ETJM\Simulador\bin\Debug\Tic Tac Toe.pdb
+D:\School\Proyectos\Emulador de torneos para juegos de mesa\21\ETJM\Simulador\obj\Debug\Simulador.csprojResolveAssemblyReference.cache
+D:\School\Proyectos\Emulador de torneos para juegos de mesa\21\ETJM\Simulador\obj\Debug\Simulador.dll
+D:\School\Proyectos\Emulador de torneos para juegos de mesa\21\ETJM\Simulador\obj\Debug\Simulador.pdb

@@ -1,0 +1,55 @@
+D:\School\Proyectos\Emulador de torneos para juegos de mesa\17\ETJM\InstanciaJuegos\bin\Debug\InstanciaJuegos.dll
+D:\School\Proyectos\Emulador de torneos para juegos de mesa\17\ETJM\InstanciaJuegos\bin\Debug\InstanciaJuegos.pdb
+D:\School\Proyectos\Emulador de torneos para juegos de mesa\17\ETJM\InstanciaJuegos\bin\Debug\IJuego.dll
+D:\School\Proyectos\Emulador de torneos para juegos de mesa\17\ETJM\InstanciaJuegos\bin\Debug\Simulador.dll
+D:\School\Proyectos\Emulador de torneos para juegos de mesa\17\ETJM\InstanciaJuegos\bin\Debug\Tic Tac Toe.dll
+D:\School\Proyectos\Emulador de torneos para juegos de mesa\17\ETJM\InstanciaJuegos\bin\Debug\IJuego.pdb
+D:\School\Proyectos\Emulador de torneos para juegos de mesa\17\ETJM\InstanciaJuegos\bin\Debug\Simulador.pdb
+D:\School\Proyectos\Emulador de torneos para juegos de mesa\17\ETJM\InstanciaJuegos\bin\Debug\Tic Tac Toe.pdb
+D:\School\Proyectos\Emulador de torneos para juegos de mesa\17\ETJM\InstanciaJuegos\obj\Debug\InstanciaJuegos.csprojResolveAssemblyReference.cache
+D:\School\Proyectos\Emulador de torneos para juegos de mesa\17\ETJM\InstanciaJuegos\obj\Debug\InstanciaJuegos.dll
+D:\School\Proyectos\Emulador de torneos para juegos de mesa\17\ETJM\InstanciaJuegos\obj\Debug\InstanciaJuegos.pdb
+D:\School\Proyectos\Emulador de torneos para juegos de mesa\18\ETJM\InstanciaJuegos\bin\Debug\InstanciaJuegos.dll
+D:\School\Proyectos\Emulador de torneos para juegos de mesa\18\ETJM\InstanciaJuegos\bin\Debug\InstanciaJuegos.pdb
+D:\School\Proyectos\Emulador de torneos para juegos de mesa\18\ETJM\InstanciaJuegos\bin\Debug\IJuego.dll
+D:\School\Proyectos\Emulador de torneos para juegos de mesa\18\ETJM\InstanciaJuegos\bin\Debug\Simulador.dll
+D:\School\Proyectos\Emulador de torneos para juegos de mesa\18\ETJM\InstanciaJuegos\bin\Debug\Tic Tac Toe.dll
+D:\School\Proyectos\Emulador de torneos para juegos de mesa\18\ETJM\InstanciaJuegos\bin\Debug\IJuego.pdb
+D:\School\Proyectos\Emulador de torneos para juegos de mesa\18\ETJM\InstanciaJuegos\bin\Debug\Simulador.pdb
+D:\School\Proyectos\Emulador de torneos para juegos de mesa\18\ETJM\InstanciaJuegos\bin\Debug\Tic Tac Toe.pdb
+D:\School\Proyectos\Emulador de torneos para juegos de mesa\18\ETJM\InstanciaJuegos\obj\Debug\InstanciaJuegos.csprojResolveAssemblyReference.cache
+D:\School\Proyectos\Emulador de torneos para juegos de mesa\18\ETJM\InstanciaJuegos\obj\Debug\InstanciaJuegos.dll
+D:\School\Proyectos\Emulador de torneos para juegos de mesa\18\ETJM\InstanciaJuegos\obj\Debug\InstanciaJuegos.pdb
+D:\School\Proyectos\Emulador de torneos para juegos de mesa\19\ETJM\InstanciaJuegos\bin\Debug\InstanciaJuegos.dll
+D:\School\Proyectos\Emulador de torneos para juegos de mesa\19\ETJM\InstanciaJuegos\bin\Debug\InstanciaJuegos.pdb
+D:\School\Proyectos\Emulador de torneos para juegos de mesa\19\ETJM\InstanciaJuegos\bin\Debug\IJuego.dll
+D:\School\Proyectos\Emulador de torneos para juegos de mesa\19\ETJM\InstanciaJuegos\bin\Debug\Simulador.dll
+D:\School\Proyectos\Emulador de torneos para juegos de mesa\19\ETJM\InstanciaJuegos\bin\Debug\Tic Tac Toe.dll
+D:\School\Proyectos\Emulador de torneos para juegos de mesa\19\ETJM\InstanciaJuegos\bin\Debug\IJuego.pdb
+D:\School\Proyectos\Emulador de torneos para juegos de mesa\19\ETJM\InstanciaJuegos\bin\Debug\Simulador.pdb
+D:\School\Proyectos\Emulador de torneos para juegos de mesa\19\ETJM\InstanciaJuegos\bin\Debug\Tic Tac Toe.pdb
+D:\School\Proyectos\Emulador de torneos para juegos de mesa\19\ETJM\InstanciaJuegos\obj\Debug\InstanciaJuegos.csprojResolveAssemblyReference.cache
+D:\School\Proyectos\Emulador de torneos para juegos de mesa\19\ETJM\InstanciaJuegos\obj\Debug\InstanciaJuegos.dll
+D:\School\Proyectos\Emulador de torneos para juegos de mesa\19\ETJM\InstanciaJuegos\obj\Debug\InstanciaJuegos.pdb
+D:\School\Proyectos\Emulador de torneos para juegos de mesa\20\ETJM\InstanciaJuegos\bin\Debug\InstanciaJuegos.dll
+D:\School\Proyectos\Emulador de torneos para juegos de mesa\20\ETJM\InstanciaJuegos\bin\Debug\InstanciaJuegos.pdb
+D:\School\Proyectos\Emulador de torneos para juegos de mesa\20\ETJM\InstanciaJuegos\bin\Debug\IJuego.dll
+D:\School\Proyectos\Emulador de torneos para juegos de mesa\20\ETJM\InstanciaJuegos\bin\Debug\Simulador.dll
+D:\School\Proyectos\Emulador de torneos para juegos de mesa\20\ETJM\InstanciaJuegos\bin\Debug\Tic Tac Toe.dll
+D:\School\Proyectos\Emulador de torneos para juegos de mesa\20\ETJM\InstanciaJuegos\bin\Debug\IJuego.pdb
+D:\School\Proyectos\Emulador de torneos para juegos de mesa\20\ETJM\InstanciaJuegos\bin\Debug\Simulador.pdb
+D:\School\Proyectos\Emulador de torneos para juegos de mesa\20\ETJM\InstanciaJuegos\bin\Debug\Tic Tac Toe.pdb
+D:\School\Proyectos\Emulador de torneos para juegos de mesa\20\ETJM\InstanciaJuegos\obj\Debug\InstanciaJuegos.csprojResolveAssemblyReference.cache
+D:\School\Proyectos\Emulador de torneos para juegos de mesa\20\ETJM\InstanciaJuegos\obj\Debug\InstanciaJuegos.dll
+D:\School\Proyectos\Emulador de torneos para juegos de mesa\20\ETJM\InstanciaJuegos\obj\Debug\InstanciaJuegos.pdb
+D:\School\Proyectos\Emulador de torneos para juegos de mesa\21\ETJM\InstanciaJuegos\bin\Debug\InstanciaJuegos.dll
+D:\School\Proyectos\Emulador de torneos para juegos de mesa\21\ETJM\InstanciaJuegos\bin\Debug\InstanciaJuegos.pdb
+D:\School\Proyectos\Emulador de torneos para juegos de mesa\21\ETJM\InstanciaJuegos\bin\Debug\IJuego.dll
+D:\School\Proyectos\Emulador de torneos para juegos de mesa\21\ETJM\InstanciaJuegos\bin\Debug\Simulador.dll
+D:\School\Proyectos\Emulador de torneos para juegos de mesa\21\ETJM\InstanciaJuegos\bin\Debug\Tic Tac Toe.dll
+D:\School\Proyectos\Emulador de torneos para juegos de mesa\21\ETJM\InstanciaJuegos\bin\Debug\IJuego.pdb
+D:\School\Proyectos\Emulador de torneos para juegos de mesa\21\ETJM\InstanciaJuegos\bin\Debug\Simulador.pdb
+D:\School\Proyectos\Emulador de torneos para juegos de mesa\21\ETJM\InstanciaJuegos\bin\Debug\Tic Tac Toe.pdb
+D:\School\Proyectos\Emulador de torneos para juegos de mesa\21\ETJM\InstanciaJuegos\obj\Debug\InstanciaJuegos.csprojResolveAssemblyReference.cache
+D:\School\Proyectos\Emulador de torneos para juegos de mesa\21\ETJM\InstanciaJuegos\obj\Debug\InstanciaJuegos.dll
+D:\School\Proyectos\Emulador de torneos para juegos de mesa\21\ETJM\InstanciaJuegos\obj\Debug\InstanciaJuegos.pdb

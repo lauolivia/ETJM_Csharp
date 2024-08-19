@@ -1,0 +1,46 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ETJM", "ETJM\ETJM.csproj", "{ABF01EDA-7D5F-4046-BE36-771F8F7E0C9B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Simulador", "Simulador\Simulador.csproj", "{3072A070-CAF8-4D7B-90A5-CDC316ECBBB6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IGame", "IJuego\IGame.csproj", "{6E4A3FD7-9ADD-4CAC-BC56-3EE6B54F9989}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tic Tac Toe", "Tic Tac Toe\Tic Tac Toe.csproj", "{E3CC3442-6440-498B-80AB-74A8C618A082}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InstanciaJuegos", "InstanciaJuegos\InstanciaJuegos.csproj", "{67AC4925-3806-409B-A3D1-0C3A61FBC8AD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ABF01EDA-7D5F-4046-BE36-771F8F7E0C9B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ABF01EDA-7D5F-4046-BE36-771F8F7E0C9B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ABF01EDA-7D5F-4046-BE36-771F8F7E0C9B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ABF01EDA-7D5F-4046-BE36-771F8F7E0C9B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3072A070-CAF8-4D7B-90A5-CDC316ECBBB6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3072A070-CAF8-4D7B-90A5-CDC316ECBBB6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3072A070-CAF8-4D7B-90A5-CDC316ECBBB6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3072A070-CAF8-4D7B-90A5-CDC316ECBBB6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6E4A3FD7-9ADD-4CAC-BC56-3EE6B54F9989}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6E4A3FD7-9ADD-4CAC-BC56-3EE6B54F9989}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6E4A3FD7-9ADD-4CAC-BC56-3EE6B54F9989}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6E4A3FD7-9ADD-4CAC-BC56-3EE6B54F9989}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E3CC3442-6440-498B-80AB-74A8C618A082}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E3CC3442-6440-498B-80AB-74A8C618A082}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E3CC3442-6440-498B-80AB-74A8C618A082}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E3CC3442-6440-498B-80AB-74A8C618A082}.Release|Any CPU.Build.0 = Release|Any CPU
+		{67AC4925-3806-409B-A3D1-0C3A61FBC8AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{67AC4925-3806-409B-A3D1-0C3A61FBC8AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{67AC4925-3806-409B-A3D1-0C3A61FBC8AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{67AC4925-3806-409B-A3D1-0C3A61FBC8AD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
